@@ -37,7 +37,7 @@
 
 ```bash
 # Clone the repository (if applicable)
-git clone <repository_url>
+git clone https://github.com/manish-12ys/IndiaGrid-AI.git
 cd "IndiaGrid AI"
 
 # Activate your virtual environment
