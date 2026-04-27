@@ -1,0 +1,9 @@
+pandas
+flask
+statsmodels
+# tensorflow (Python 3.14 wheel not available)
+scikit-learn
+google-genai
+python-dotenv
+Flask-Cors
+gunicorn

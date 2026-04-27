@@ -1,0 +1,25 @@
+{
+  "train": {
+    "mae_mw": 250.636,
+    "rmse_mw": 410.346,
+    "mape_pct": 2413.252
+  },
+  "validation": {
+    "mae_mw": 779.146,
+    "rmse_mw": 1735.571,
+    "mape_pct": 606.577
+  },
+  "train_rows": 146,
+  "validation_rows": 37,
+  "quality": {
+    "rows": 183,
+    "states": 37,
+    "target_non_null_rate": 1.0,
+    "observed_demand_rate": 0.0,
+    "generation_proxy_rate": 1.0,
+    "supply_proxy_rate": 0.0,
+    "strict": false,
+    "allow_proxy": false,
+    "prerequisite_failures": []
+  }
+}

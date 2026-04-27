@@ -1,0 +1,865 @@
+state,year,month,demand_mw,supply_mw,source,timestamp
+Andhra Pradesh,2022,1,8504,12907,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,2,9754,13245,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,3,11414,12667,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,4,15624,12015,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,5,13927,12172,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,6,15694,11848,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,7,11429,12488,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,8,11261,13351,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,9,12449,13296,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,10,13045,12510,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,11,10225,12372,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2022,12,8795,12751,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,1,9107,12522,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,2,8642,12929,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,3,10383,13153,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,4,14525,12090,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,5,14183,11858,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,6,15581,11730,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,7,11610,12416,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,8,11192,12587,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,9,12132,12474,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,10,13046,12488,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,11,10929,12719,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andhra Pradesh,2023,12,9198,12539,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,1,6274,6559,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,2,7693,6314,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,3,7503,6567,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,4,11478,5577,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,5,10996,6187,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,6,9833,5601,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,7,7152,5793,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,8,8889,6024,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,9,9427,6638,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,10,8866,6453,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,11,8385,6195,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2022,12,7660,6625,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,1,6437,6611,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,2,7498,6056,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,3,8697,5795,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,4,11120,5861,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,5,10126,5439,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,6,11243,6169,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,7,8011,6650,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,8,7848,6271,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,9,9554,6306,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,10,8715,5663,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,11,7521,6032,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Arunachal Pradesh,2023,12,6808,6128,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,1,9570,8961,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,2,9108,8930,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,3,10717,8882,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,4,13861,8234,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,5,15600,8435,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,6,15262,8076,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,7,10339,9397,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,8,10645,9062,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,9,13371,8644,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,10,13440,9467,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,11,11546,8737,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2022,12,8534,8568,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,1,9001,9374,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,2,8614,8637,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,3,11736,8642,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,4,14975,8876,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,5,14660,8396,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,6,14142,8208,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,7,10433,8933,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,8,10772,8830,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,9,11974,8718,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,10,12739,9333,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,11,10438,9462,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Assam,2023,12,8752,9002,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,1,4429,4945,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,2,5063,5055,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,3,5070,4806,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,4,7700,5338,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,5,7311,5036,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,6,8205,5265,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,7,6455,5124,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,8,5394,4743,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,9,6729,5445,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,10,7047,5006,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,11,6474,4886,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2022,12,4855,5579,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,1,4421,5186,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,2,5235,4876,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,3,6951,5576,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,4,7070,5148,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,5,7880,5002,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,6,8588,5436,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,7,6613,4851,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,8,6351,5453,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,9,7576,4969,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,10,7813,4811,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,11,6379,5581,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Bihar,2023,12,5351,4798,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,1,11871,14485,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,2,10440,13788,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,3,13389,14271,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,4,18598,13371,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,5,18603,13537,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,6,17074,13849,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,7,13455,14128,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,8,13705,14053,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,9,15928,13769,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,10,15903,14320,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,11,13673,13870,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2022,12,11358,14420,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,1,10853,14270,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,2,11525,14509,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,3,14107,13787,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,4,18256,13076,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,5,18407,13605,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,6,17759,13678,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,7,12323,14046,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,8,12420,14061,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,9,14486,13995,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,10,14842,14242,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,11,13682,14560,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chhattisgarh,2023,12,10938,14097,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,1,4020,4488,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,2,3551,4147,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,3,4185,4074,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,4,6330,4193,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,5,6087,3689,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,6,7609,3643,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,7,5644,4591,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,8,5355,4293,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,9,6518,3937,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,10,5379,4716,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,11,5604,3969,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2022,12,5118,4574,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,1,3698,3877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,2,4818,4133,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,3,5881,4015,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,4,7107,4187,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,5,7169,3888,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,6,6445,3875,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,7,5327,3854,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,8,5965,4058,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,9,4972,3868,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,10,5183,3848,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,11,5267,4199,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Goa,2023,12,4728,3837,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,1,15992,20355,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,2,16436,20378,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,3,18091,20377,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,4,24126,18928,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,5,23630,18878,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,6,24349,19465,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,7,17287,20309,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,8,17566,19884,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,9,21429,20431,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,10,20455,20214,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,11,18245,20111,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2022,12,16498,20442,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,1,16079,19954,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,2,15920,19993,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,3,17599,19742,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,4,24791,18959,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,5,23931,19240,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,6,25194,19573,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,7,18160,20585,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,8,18940,20588,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,9,21485,20456,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,10,20639,19980,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,11,18284,20022,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Gujarat,2023,12,15486,20528,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,1,8334,10904,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,2,8664,11307,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,3,9273,10783,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,4,12851,10664,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,5,13413,10176,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,6,12117,10101,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,7,9145,11156,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,8,9353,11307,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,9,10129,10450,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,10,11377,11048,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,11,10237,10562,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2022,12,7694,10899,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,1,7099,10861,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,2,7400,11019,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,3,9108,10895,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,4,13751,9947,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,5,12012,9843,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,6,13309,10779,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,7,9508,11340,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,8,9571,10670,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,9,10757,11329,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,10,11892,11156,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,11,10275,10555,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Haryana,2023,12,7265,11196,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,1,9445,10569,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,2,8441,10887,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,3,9505,10671,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,4,14507,10055,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,5,13684,9642,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,6,13173,9796,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,7,10063,10639,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,8,11040,10052,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,9,10952,10921,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,10,11658,10769,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,11,10808,10112,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2022,12,9302,10030,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,1,7928,10709,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,2,8792,10233,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,3,9822,10433,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,4,13806,10080,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,5,12677,9861,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,6,13934,9783,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,7,10556,10283,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,8,10673,10340,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,9,11541,10264,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,10,12332,10320,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,11,10559,10484,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Himachal Pradesh,2023,12,8565,10812,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,1,12732,15482,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,2,14001,15049,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,3,15489,15776,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,4,20860,14983,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,5,21202,14499,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,6,20664,14863,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,7,15187,15268,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,8,16240,15515,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,9,18030,15966,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,10,18441,15254,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,11,16352,15784,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2022,12,12326,15809,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,1,12798,15870,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,2,13104,15030,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,3,14956,15549,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,4,20301,15084,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,5,20342,14999,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,6,21504,14877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,7,15504,15252,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,8,15738,15511,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,9,16784,15752,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,10,17561,15147,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,11,16261,15877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jharkhand,2023,12,14004,15632,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,1,14486,19320,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,2,15621,19019,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,3,18583,19142,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,4,23352,18296,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,5,24744,18686,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,6,23452,18161,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,7,18601,19329,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,8,17647,19644,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,9,21003,19285,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,10,21348,19485,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,11,18344,18923,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2022,12,14285,19531,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,1,14151,19569,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,2,14368,18899,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,3,17425,19352,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,4,23160,18086,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,5,23238,17836,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,6,24389,18668,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,7,17499,19521,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,8,17419,19067,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,9,20050,19414,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,10,20049,19633,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,11,18063,19167,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Karnataka,2023,12,14124,19047,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,1,5595,5258,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,2,4920,5773,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,3,6727,5587,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,4,9563,5271,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,5,8495,4723,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,6,8485,5507,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,7,5971,5390,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,8,6054,4887,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,9,7742,5641,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,10,7085,5523,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,11,6596,5204,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2022,12,5143,5564,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,1,6325,4857,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,2,5186,5280,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,3,7310,5662,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,4,8921,4976,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,5,9062,4785,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,6,9282,4705,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,7,6265,5155,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,8,5693,4931,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,9,7820,5159,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,10,6479,4952,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,11,5855,5199,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Kerala,2023,12,5284,5523,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,1,5228,8503,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,2,6393,8877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,3,6839,8468,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,4,9253,8422,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,5,8228,7972,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,6,9155,8391,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,7,7720,8703,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,8,6217,8857,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,9,7920,8611,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,10,7078,8427,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,11,6696,8444,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2022,12,5892,8416,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,1,5058,8571,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,2,5321,8516,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,3,7035,8536,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,4,10099,8379,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,5,8437,8149,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,6,9924,7974,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,7,7459,9034,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,8,7655,9015,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,9,7576,9256,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,10,7094,9214,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,11,6417,8657,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Madhya Pradesh,2023,12,5666,8779,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,1,8335,10911,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,2,8659,11045,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,3,9229,10677,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,4,13025,10495,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,5,14319,10675,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,6,13999,10748,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,7,10012,11193,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,8,9932,10481,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,9,11584,10646,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,10,10815,11346,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,11,9245,10754,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2022,12,9101,11142,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,1,8984,10867,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,2,8379,10838,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,3,9660,10969,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,4,12832,10709,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,5,13522,10591,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,6,13287,10442,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,7,10305,10741,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,8,10710,10946,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,9,11009,10396,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,10,12403,10716,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,11,10746,11148,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Maharashtra,2023,12,8358,11090,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,1,4648,5812,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,2,5178,5360,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,3,5909,6279,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,4,7185,5507,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,5,6372,5572,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,6,6688,5684,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,7,4508,5886,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,8,5023,5956,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,9,6091,6063,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,10,5701,5399,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,11,5885,5867,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2022,12,4483,5787,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,1,5230,5579,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,2,5106,5666,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,3,5545,5953,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,4,6526,5575,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,5,7897,5692,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,6,6528,5140,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,7,5213,6324,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,8,4765,5571,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,9,5257,5948,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,10,5445,6304,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,11,5862,5353,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Manipur,2023,12,4328,5426,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,1,4492,7044,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,2,3767,6828,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,3,5714,7057,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,4,6561,6913,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,5,8009,6484,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,6,7567,6507,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,7,4708,6892,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,8,4586,6972,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,9,6942,6870,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,10,6210,7181,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,11,4706,7589,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2022,12,4467,7385,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,1,3617,6726,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,2,4874,6753,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,3,4626,7278,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,4,7016,6557,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,5,7589,6431,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,6,6926,7273,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,7,4321,7702,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,8,4743,6877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,9,6769,7531,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,10,6242,7344,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,11,5193,7183,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Meghalaya,2023,12,4811,7566,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,1,6356,7617,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,2,4819,7413,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,3,5741,6683,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,4,8397,6394,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,5,8710,6712,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,6,9194,6397,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,7,6242,7168,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,8,7295,7243,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,9,7488,7274,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,10,8172,7471,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,11,6702,7503,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2022,12,6387,7189,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,1,5925,7218,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,2,5234,7037,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,3,7631,7582,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,4,8843,6998,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,5,9877,6956,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,6,9380,7278,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,7,7430,6691,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,8,6442,7138,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,9,7867,6811,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,10,7298,6805,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,11,6178,7225,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Mizoram,2023,12,5951,7518,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,1,11109,12676,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,2,12686,13030,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,3,13389,12280,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,4,18727,12440,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,5,18861,11653,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,6,18664,12047,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,7,13351,12522,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,8,13999,13016,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,9,16318,13113,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,10,16071,12936,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,11,14781,12680,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2022,12,11772,12974,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,1,12117,12458,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,2,11510,12877,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,3,14222,13065,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,4,18008,12557,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,5,18019,11992,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,6,19245,11899,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,7,14513,12862,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,8,14700,13140,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,9,15972,12566,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,10,15245,13053,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,11,13700,12688,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Nagaland,2023,12,11417,12315,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,1,16024,18794,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,2,16763,18232,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,3,19594,18020,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,4,25228,17241,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,5,25725,17897,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,6,25562,17144,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,7,19894,18930,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,8,18651,18028,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,9,21590,18240,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,10,20797,18539,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,11,19213,18908,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2022,12,15514,18624,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,1,16884,18106,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,2,17045,18572,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,3,18096,18009,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,4,24548,17571,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,5,25564,17997,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,6,24687,17347,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,7,18766,18099,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,8,19424,18838,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,9,22539,18038,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,10,20912,18702,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,11,18336,18501,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Odisha,2023,12,16068,18320,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,1,12694,14915,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,2,12618,14905,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,3,14461,14365,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,4,20414,14358,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,5,19790,14152,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,6,20368,13913,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,7,15557,14683,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,8,14714,14834,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,9,16123,14477,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,10,16952,14334,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,11,14941,14420,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2022,12,12117,14802,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,1,12754,14977,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,2,12460,14579,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,3,15445,14412,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,4,19892,14274,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,5,20000,14272,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,6,19497,13641,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,7,15261,14284,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,8,14817,14231,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,9,17701,14407,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,10,16257,14215,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,11,15496,14939,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Punjab,2023,12,12430,15113,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,1,14267,15258,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,2,13749,15389,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,3,15757,14812,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,4,20857,14677,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,5,20436,14997,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,6,21855,14319,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,7,15362,15685,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,8,15228,15228,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,9,17501,15148,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,10,18696,15127,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,11,16425,15697,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2022,12,13690,14799,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,1,12521,15201,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,2,13373,15243,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,3,15556,14821,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,4,20681,14421,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,5,21232,14726,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,6,22151,14579,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,7,16605,15132,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,8,15004,15311,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,9,19004,15721,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,10,17512,15310,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,11,15571,15195,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Rajasthan,2023,12,13393,15122,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,1,12583,15247,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,2,12063,14916,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,3,13625,15208,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,4,19663,14170,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,5,20005,14525,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,6,19387,14437,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,7,15109,15744,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,8,14819,15511,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,9,16946,15115,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,10,16600,15707,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,11,14874,15135,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2022,12,13126,15063,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,1,12314,15491,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,2,11621,14918,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,3,14610,14929,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,4,19628,14874,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,5,20008,14489,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,6,20394,14975,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,7,14585,15587,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,8,13846,15704,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,9,16038,15280,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,10,17610,15736,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,11,15241,15032,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Sikkim,2023,12,12763,15177,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,1,11705,11427,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,2,10589,11105,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,3,12364,11844,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,4,17470,11206,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,5,18488,10504,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,6,17306,10518,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,7,12368,11848,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,8,12917,11632,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,9,14734,11601,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,10,15797,11010,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,11,14058,11662,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2022,12,10946,11600,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,1,12024,11347,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,2,10555,11230,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,3,14134,11263,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,4,18576,10435,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,5,17804,10727,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,6,17262,11131,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,7,14176,11206,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,8,12792,11855,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,9,15360,11424,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,10,16225,11938,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,11,13808,11340,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tamil Nadu,2023,12,11668,11431,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,1,5486,8203,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,2,5332,8491,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,3,7362,7717,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,4,9556,7774,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,5,10053,7358,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,6,9523,7562,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,7,7244,8468,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,8,6468,7690,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,9,7526,8150,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,10,7342,7972,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,11,7074,7893,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2022,12,6785,8126,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,1,5830,8303,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,2,5895,8461,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,3,6098,7878,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,4,10195,7279,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,5,9538,7434,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,6,9229,7506,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,7,6394,8092,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,8,7740,8360,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,9,7892,8378,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,10,7840,7979,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,11,6698,7913,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Telangana,2023,12,5181,8359,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,1,8952,10379,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,2,8997,10494,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,3,10493,10545,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,4,14205,10545,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,5,12650,10262,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,6,12611,10596,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,7,10074,10808,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,8,10108,10964,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,9,10776,10975,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,10,11934,10953,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,11,9069,10752,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2022,12,7555,10539,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,1,7701,11000,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,2,9381,11263,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,3,9233,10650,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,4,13137,9875,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,5,13721,10611,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,6,13804,10197,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,7,9469,10395,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,8,9357,10324,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,9,11108,10726,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,10,11581,10371,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,11,9681,10948,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Tripura,2023,12,8045,10785,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,1,11206,14748,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,2,12771,14091,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,3,14782,14493,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,4,18516,13891,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,5,18585,13159,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,6,19302,13256,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,7,14501,14562,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,8,13454,14692,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,9,16526,14053,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,10,15988,14096,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,11,14402,14354,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2022,12,12605,14378,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,1,13062,14748,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,2,12446,14658,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,3,15335,14342,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,4,18770,13401,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,5,19790,13436,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,6,20296,13342,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,7,15286,14235,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,8,15068,14674,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,9,17206,13886,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,10,17038,13971,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,11,14652,14356,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttar Pradesh,2023,12,13124,14433,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,1,15792,16903,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,2,14515,17307,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,3,17248,17329,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,4,23944,16172,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,5,24922,16124,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,6,23044,16054,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,7,18725,17796,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,8,17929,17343,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,9,19480,16963,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,10,21258,17446,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,11,18110,17230,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2022,12,15635,16898,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,1,14816,17410,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,2,15873,17641,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,3,18367,16990,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,4,24129,16207,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,5,24401,16479,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,6,23341,16417,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,7,17427,17529,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,8,16931,17776,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,9,20200,17744,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,10,21261,17204,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,11,17519,17558,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Uttarakhand,2023,12,15611,17081,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,1,3513,5668,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,2,5261,4965,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,3,5212,5575,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,4,6971,5110,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,5,7968,4743,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,6,7959,5208,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,7,4537,5218,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,8,5066,5018,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,9,5008,5564,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,10,6579,4860,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,11,4607,5120,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2022,12,3491,5326,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,1,5211,5758,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,2,3872,5475,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,3,4802,5770,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,4,7595,5497,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,5,6323,5324,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,6,7614,4809,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,7,6134,5675,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,8,4318,5433,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,9,5232,5091,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,10,5476,5237,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,11,5439,5511,mock_historical_data.csv,2026-04-27T09:45:45.217347
+West Bengal,2023,12,4108,4846,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,1,5481,6888,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,2,5361,7318,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,3,5905,6577,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,4,8004,6751,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,5,8460,6849,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,6,7819,7137,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,7,6509,7100,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,8,6250,7137,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,9,6180,6883,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,10,7263,7354,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,11,5321,6796,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2022,12,5351,7114,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,1,4715,6970,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,2,5282,7409,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,3,5572,6794,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,4,7161,7138,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,5,7991,7115,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,6,8510,6270,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,7,5332,6558,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,8,5797,7271,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,9,6048,6829,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,10,7369,6885,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,11,6792,6762,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Andaman And Nicobar Islands,2023,12,5744,7342,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,1,15522,17336,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,2,16842,17885,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,3,18118,18184,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,4,25896,17027,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,5,24923,17080,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,6,24894,17241,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,7,18848,17989,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,8,19048,17888,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,9,20896,18140,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,10,21559,17584,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,11,19202,17951,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2022,12,16514,18121,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,1,15746,17574,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,2,15966,17952,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,3,19369,17882,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,4,25431,16504,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,5,25304,17128,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,6,25968,17225,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,7,18873,18012,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,8,18549,17876,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,9,22152,17894,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,10,21326,18238,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,11,19049,17636,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Chandigarh,2023,12,15197,17514,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,1,10222,11573,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,2,11369,11305,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,3,13110,10898,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,4,16877,10344,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,5,17324,10153,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,6,18234,10167,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,7,13845,11542,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,8,13310,10884,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,9,15032,11125,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,10,14307,10983,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,11,12891,10906,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2022,12,10369,10901,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,1,11050,11549,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,2,11434,10658,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,3,13187,11343,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,4,17228,10645,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,5,17952,10284,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,6,16729,10142,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,7,13608,11250,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,8,13473,11346,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,9,14770,11408,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,10,14898,11605,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,11,12582,10684,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Dadra And Nagar Haveli And Daman And Diu,2023,12,11278,11207,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,1,4575,6265,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,2,3454,6662,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,3,4685,6408,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,4,6356,5763,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,5,7566,6092,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,6,7273,6499,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,7,5342,6749,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,8,4448,6272,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,9,5705,6803,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,10,6576,6219,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,11,5881,6293,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2022,12,4811,6740,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,1,4666,6305,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,2,4535,6127,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,3,5663,6187,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,4,7469,5673,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,5,6344,6273,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,6,7067,5922,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,7,4153,6420,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,8,4238,6563,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,9,6269,6263,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,10,5449,6945,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,11,4264,6769,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Delhi,2023,12,3977,6026,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,1,12715,13452,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,2,11336,12984,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,3,15035,13190,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,4,20472,12266,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,5,19164,12901,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,6,19411,12473,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,7,13620,13598,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,8,13733,13367,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,9,16973,13079,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,10,16100,13509,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,11,14158,13174,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2022,12,13083,13628,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,1,12891,13380,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,2,11618,13421,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,3,15210,13413,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,4,18784,12305,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,5,20202,13178,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,6,20259,12413,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,7,13615,13062,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,8,14756,13355,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,9,16007,13573,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,10,16454,13400,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,11,14766,12942,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Jammu And Kashmir,2023,12,12973,13371,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,1,13150,12666,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,2,13457,12811,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,3,14605,12954,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,4,20351,11887,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,5,18995,12167,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,6,20410,11918,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,7,15451,13077,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,8,15362,13329,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,9,16476,13171,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,10,16795,12831,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,11,14846,13418,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2022,12,11953,12915,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,1,12889,13396,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,2,11750,13229,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,3,14407,13348,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,4,19106,11978,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,5,20369,12231,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,6,19931,11994,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,7,14824,12582,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,8,14416,13025,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,9,16104,12550,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,10,17123,12825,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,11,13958,12762,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Ladakh,2023,12,13162,13182,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,1,8484,9581,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,2,9715,10474,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,3,10783,10451,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,4,15213,9292,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,5,14570,9377,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,6,15049,9993,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,7,11143,10271,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,8,10550,10415,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,9,12293,10548,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,10,11712,10062,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,11,9772,9577,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2022,12,9110,10042,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,1,8614,10029,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,2,8989,9898,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,3,11115,9648,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,4,14354,9891,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,5,14992,9080,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,6,13414,9707,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,7,10350,9781,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,8,10895,10533,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,9,12536,10275,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,10,12736,9731,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,11,10297,9995,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Lakshadweep,2023,12,9468,10385,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,1,11569,14340,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,2,12329,14681,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,3,13932,14021,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,4,19390,13421,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,5,18738,14140,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,6,19168,14150,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,7,12881,14076,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,8,12941,14783,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,9,16805,14238,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,10,15452,14251,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,11,13333,14170,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2022,12,11706,14113,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,1,12545,14241,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,2,12134,14887,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,3,14596,14624,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,4,19122,13832,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,5,18709,13833,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,6,18861,13987,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,7,12855,14347,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,8,14795,14015,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,9,16717,14430,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,10,15582,14745,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,11,13458,14871,mock_historical_data.csv,2026-04-27T09:45:45.217347
+Puducherry,2023,12,10985,14159,mock_historical_data.csv,2026-04-27T09:45:45.217347

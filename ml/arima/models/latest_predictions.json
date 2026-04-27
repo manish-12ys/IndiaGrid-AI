@@ -1,0 +1,254 @@
+[
+    {
+        "state": "Andhra Pradesh",
+        "predicted_demand_mw": 9060.133327317511,
+        "last_actual_demand_mw": 9198.0,
+        "mae": 1130.2182586312847,
+        "rmse": 1361.6814323489168
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "predicted_demand_mw": 6807.987365147084,
+        "last_actual_demand_mw": 6808.0,
+        "mae": 820.5763374427113,
+        "rmse": 958.1444464993529
+    },
+    {
+        "state": "Assam",
+        "predicted_demand_mw": 9340.921328708493,
+        "last_actual_demand_mw": 8752.0,
+        "mae": 1465.768530145911,
+        "rmse": 1682.8610432233154
+    },
+    {
+        "state": "Bihar",
+        "predicted_demand_mw": 5355.470165849056,
+        "last_actual_demand_mw": 5351.0,
+        "mae": 745.8079879594619,
+        "rmse": 933.3479591833036
+    },
+    {
+        "state": "Chhattisgarh",
+        "predicted_demand_mw": 11221.364534130833,
+        "last_actual_demand_mw": 10938.0,
+        "mae": 1918.0155260730855,
+        "rmse": 2162.989357329091
+    },
+    {
+        "state": "Goa",
+        "predicted_demand_mw": 4811.996797364457,
+        "last_actual_demand_mw": 4728.0,
+        "mae": 393.32972367166695,
+        "rmse": 450.67193664171674
+    },
+    {
+        "state": "Gujarat",
+        "predicted_demand_mw": 15983.55610265641,
+        "last_actual_demand_mw": 15486.0,
+        "mae": 1876.3905962028396,
+        "rmse": 2234.952479267352
+    },
+    {
+        "state": "Haryana",
+        "predicted_demand_mw": 7024.833720666935,
+        "last_actual_demand_mw": 7265.0,
+        "mae": 1478.2984388692298,
+        "rmse": 1684.224945510868
+    },
+    {
+        "state": "Himachal Pradesh",
+        "predicted_demand_mw": 8579.390049066662,
+        "last_actual_demand_mw": 8565.0,
+        "mae": 974.334764345432,
+        "rmse": 1272.9893990389173
+    },
+    {
+        "state": "Jharkhand",
+        "predicted_demand_mw": 13719.327652330581,
+        "last_actual_demand_mw": 14004.0,
+        "mae": 1727.085447457372,
+        "rmse": 1949.4492743860023
+    },
+    {
+        "state": "Karnataka",
+        "predicted_demand_mw": 13327.308546163627,
+        "last_actual_demand_mw": 14124.0,
+        "mae": 2828.484603184185,
+        "rmse": 3114.3520721404434
+    },
+    {
+        "state": "Kerala",
+        "predicted_demand_mw": 5531.09510404986,
+        "last_actual_demand_mw": 5284.0,
+        "mae": 761.3438527726428,
+        "rmse": 897.0082821772785
+    },
+    {
+        "state": "Madhya Pradesh",
+        "predicted_demand_mw": 5729.161518257041,
+        "last_actual_demand_mw": 5666.0,
+        "mae": 888.5054031816784,
+        "rmse": 1153.8011117718752
+    },
+    {
+        "state": "Maharashtra",
+        "predicted_demand_mw": 8218.85885847233,
+        "last_actual_demand_mw": 8358.0,
+        "mae": 1613.8917243645749,
+        "rmse": 1749.0963148026026
+    },
+    {
+        "state": "Manipur",
+        "predicted_demand_mw": 4611.574326297399,
+        "last_actual_demand_mw": 4328.0,
+        "mae": 439.59048378682763,
+        "rmse": 548.8361536051976
+    },
+    {
+        "state": "Meghalaya",
+        "predicted_demand_mw": 4964.889409632056,
+        "last_actual_demand_mw": 4811.0,
+        "mae": 848.9375206186766,
+        "rmse": 1170.16677287921
+    },
+    {
+        "state": "Mizoram",
+        "predicted_demand_mw": 6069.9480869806985,
+        "last_actual_demand_mw": 5951.0,
+        "mae": 685.3675376986882,
+        "rmse": 710.2412550966019
+    },
+    {
+        "state": "Nagaland",
+        "predicted_demand_mw": 11915.475137882513,
+        "last_actual_demand_mw": 11417.0,
+        "mae": 1378.5004644775017,
+        "rmse": 1616.624867927412
+    },
+    {
+        "state": "Odisha",
+        "predicted_demand_mw": 16297.440661833145,
+        "last_actual_demand_mw": 16068.0,
+        "mae": 2388.9889983223447,
+        "rmse": 2817.6493720261974
+    },
+    {
+        "state": "Punjab",
+        "predicted_demand_mw": 11791.527897677432,
+        "last_actual_demand_mw": 12430.0,
+        "mae": 1538.633867817539,
+        "rmse": 1859.3379348481421
+    },
+    {
+        "state": "Rajasthan",
+        "predicted_demand_mw": 13659.26110786778,
+        "last_actual_demand_mw": 13393.0,
+        "mae": 1784.05729219065,
+        "rmse": 1979.1459023036186
+    },
+    {
+        "state": "Sikkim",
+        "predicted_demand_mw": 13517.092462713601,
+        "last_actual_demand_mw": 12763.0,
+        "mae": 1894.6923766691373,
+        "rmse": 2328.244576351617
+    },
+    {
+        "state": "Tamil Nadu",
+        "predicted_demand_mw": 11390.517601615022,
+        "last_actual_demand_mw": 11668.0,
+        "mae": 1456.429677210702,
+        "rmse": 1630.2448354316841
+    },
+    {
+        "state": "Telangana",
+        "predicted_demand_mw": 5068.3229688347665,
+        "last_actual_demand_mw": 5181.0,
+        "mae": 1402.0829981786537,
+        "rmse": 1499.5522317292932
+    },
+    {
+        "state": "Tripura",
+        "predicted_demand_mw": 7970.652526794084,
+        "last_actual_demand_mw": 8045.0,
+        "mae": 1114.5217757783262,
+        "rmse": 1342.145426255375
+    },
+    {
+        "state": "Uttar Pradesh",
+        "predicted_demand_mw": 13717.840042560625,
+        "last_actual_demand_mw": 13124.0,
+        "mae": 1676.639645806517,
+        "rmse": 2016.3954802133826
+    },
+    {
+        "state": "Uttarakhand",
+        "predicted_demand_mw": 15675.708700370362,
+        "last_actual_demand_mw": 15611.0,
+        "mae": 2022.3759786458809,
+        "rmse": 2585.725895669263
+    },
+    {
+        "state": "West Bengal",
+        "predicted_demand_mw": 4456.821569887079,
+        "last_actual_demand_mw": 4108.0,
+        "mae": 766.8500305276086,
+        "rmse": 985.30336045704
+    },
+    {
+        "state": "Andaman And Nicobar Islands",
+        "predicted_demand_mw": 5787.981805018065,
+        "last_actual_demand_mw": 5744.0,
+        "mae": 864.5879119884697,
+        "rmse": 1078.6186094954387
+    },
+    {
+        "state": "Chandigarh",
+        "predicted_demand_mw": 15693.86136244225,
+        "last_actual_demand_mw": 15197.0,
+        "mae": 2464.039290101933,
+        "rmse": 2838.1955136228366
+    },
+    {
+        "state": "Dadra And Nagar Haveli And Daman And Diu",
+        "predicted_demand_mw": 11942.67983933283,
+        "last_actual_demand_mw": 11278.0,
+        "mae": 1268.7136430171936,
+        "rmse": 1502.9095092989733
+    },
+    {
+        "state": "Delhi",
+        "predicted_demand_mw": 4353.674376874082,
+        "last_actual_demand_mw": 3977.0,
+        "mae": 792.0634164390867,
+        "rmse": 952.0729459736262
+    },
+    {
+        "state": "Jammu And Kashmir",
+        "predicted_demand_mw": 12836.392149350766,
+        "last_actual_demand_mw": 12973.0,
+        "mae": 1930.0157495748085,
+        "rmse": 2223.6789620506092
+    },
+    {
+        "state": "Ladakh",
+        "predicted_demand_mw": 13915.260282181285,
+        "last_actual_demand_mw": 13162.0,
+        "mae": 1230.7430609529686,
+        "rmse": 1544.012318987562
+    },
+    {
+        "state": "Lakshadweep",
+        "predicted_demand_mw": 9681.125490352419,
+        "last_actual_demand_mw": 9468.0,
+        "mae": 1424.5106293873826,
+        "rmse": 1752.382503195271
+    },
+    {
+        "state": "Puducherry",
+        "predicted_demand_mw": 11626.840109875075,
+        "last_actual_demand_mw": 10985.0,
+        "mae": 2773.9008858472334,
+        "rmse": 3149.720946406719
+    }
+]
