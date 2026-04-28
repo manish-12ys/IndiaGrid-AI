@@ -46,60 +46,60 @@ Deployment: Docker, Render, GitHub
 🚀 How to Run
 
 1. Clone Repo
-
+```shell
 git clone https://github.com/manish-12ys/indiagrid-ai.git
 cd indiagrid-ai
 
-
+```
 ---
 
 🪟 Windows
-
+```powershell
 python -m venv venv
 venv\Scripts\activate
 
 pip install -r requirements.txt
 python app.py
 
-
+```
 ---
 
 🐧 Linux
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
 python app.py
-
+```
 
 ---
 
 🍎 macOS
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
 python app.py
-
+```
 
 ---
 
 🌐 Frontend
-
+```
 cd frontend
 npm install
 npm run dev
 
-
+```
 ---
 
 🐳 Docker (Optional)
-
+```
 docker build -t indiagrid-ai .
 docker run -p 5000:5000 indiagrid-ai
-
+```
 
 ---
 
