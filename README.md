@@ -30,6 +30,7 @@ IndiaGrid AI is an AI-powered platform that monitors, predicts, and optimizes el
 
 ```text
 Data → Processing → AI → Analysis → Optimization → Dashboard
+'''
 ---
 
 🏗️ Tech Stack
